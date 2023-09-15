@@ -15,6 +15,7 @@ My heart speaks linux elitism and minimalist software, but my wallet is empty. S
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="40" width="40" />
 
 </p>
 
