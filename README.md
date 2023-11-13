@@ -1,5 +1,5 @@
 <div align="center">
-<div class="tenor-gif-embed" data-postid="15949532" data-share-method="host" data-aspect-ratio="1.03226" data-width="100%"><a href="https://tenor.com/view/sunflower-pvz-plants-vs-zombies-gif-15949532">Sunflower Pvz Sticker</a>from <a href="https://tenor.com/search/sunflower-stickers">Sunflower Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/search/sunflower-stickers">Sunflower Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
 <h1>Average linux enjoyer</h1>
 <p>I'm Cris.<br>
 Current CS student.<br>
