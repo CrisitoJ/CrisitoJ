@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://web.archive.org/web/20091027042133im_/http://geocities.com/jelova_ae/_borders/Dog-03.gif">
+<div class="tenor-gif-embed" data-postid="15949532" data-share-method="host" data-aspect-ratio="1.03226" data-width="100%"><a href="https://tenor.com/view/sunflower-pvz-plants-vs-zombies-gif-15949532">Sunflower Pvz Sticker</a>from <a href="https://tenor.com/search/sunflower-stickers">Sunflower Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1>Average linux enjoyer</h1>
 <p>I'm Cris.<br>
 Current CS student.<br>
-My heart speaks linux elitism and minimalist software, but my wallet is empty. So I'm currently training for front-end.
+
 </p>
 </div>
 
