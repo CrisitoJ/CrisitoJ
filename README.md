@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://tenor.com/search/sunflower-stickers">Sunflower Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
+src="https://tenor.com/embed.js">
+<img src="https://tenor.com/es-419/view/sunflower-pvz-plants-vs-zombies-gif-15949532" height="40" width="40"  />
 <h1>Average linux enjoyer</h1>
 <p>I'm Cris.<br>
 Current CS student.<br>
