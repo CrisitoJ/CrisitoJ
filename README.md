@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/DwS8U6FMkJ8AAAAi/sunflower-pvz.gif" height="40" width="40"  />
+<img src="https://media.tenor.com/DwS8U6FMkJ8AAAAi/sunflower-pvz.gif"  />
 <p>I'm Cris.<br>
 Current CS student.<br>
 
