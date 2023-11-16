@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/DwS8U6FMkJ8AAAAi/sunflower-pvz.gif" width="100" />
 <p>I'm Cris.<br>
 Current CS student.<br>
-
+OS enjoyer
 </p>
 </div>
 
