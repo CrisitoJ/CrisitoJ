@@ -1,8 +1,13 @@
-<h3> Hi I'm Cris 🍊</h3>
+<h3> Hi I'm Cris </h3>
 
 I'm a CS student. I like to understand how things works. My favorite subjects are Operating Systems, Compilers, and Algorithms.
 
-I use arch btw
+<p>
+  I use arch btw <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="18"  />
+</p>
+
+
+<p>🇪🇸🇺🇸🇫🇷</p>
 
 ---
 ### Languages
@@ -13,7 +18,8 @@ I use arch btw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  height="40" width="40" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="40" />
+  </p>
 
 ### Tools
 <p>
@@ -22,6 +28,7 @@ I use arch btw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"height="40" width="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" />
 </p>
 
 ---
