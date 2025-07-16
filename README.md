@@ -6,7 +6,7 @@
     Almost engineer oriented to backend development with java and spring stack.
   <br>
     Also interesed in servers, CI/CD, and linux.
-  <br><
+  <br>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,spring,mysql,mongodb,redis,maven,git,github,githubactions,docker,linux,neovim" />
